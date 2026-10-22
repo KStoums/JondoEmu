@@ -915,6 +915,10 @@ namespace Jondo.Unity.Server.Handlers
 
             state.Kamas = done.BuyerKamas;
             await SendAsync(stream, Op.Ivf, ConnectionProtocol.BuildKamas(done.BuyerKamas));
+            // The buyer's line in the chat, the client's own «Has perdido {0} kamas.»: it has no
+            // sentence of its own for a house bought.
+            await SendAsync(stream, Op.Lqn, ConnectionProtocol.BuildSystemMessage(InfoMessages.KamasLost,
+                done.Price.ToString(CultureInfo.InvariantCulture)));
 
             var house = HouseStore.Of(door.MapId, door.ElementId, dialog.Instance);
             await SendDoorAndPlaqueAsync(stream, door, house, buyer);
@@ -1030,9 +1034,10 @@ namespace Jondo.Unity.Server.Handlers
 
         /// <summary>
         /// khw { f1: code }: a stranger's keypad answered. Wrong: kld 2 and khu { f2: 1 }, pandala
-        /// frames 3889-3890. Right: the same kld and an empty khu, then in -- or the chest opens.
-        /// That second half is an inference: nobody typed the right code of somebody else's house
-        /// in the captures. False when no stranger's keypad is open.
+        /// frames 3889-3890. Right: the same kld and no khu, then in -- or the chest opens. A khu
+        /// without a result is the owner's: the client (frx::bicj) answers it with «Código
+        /// modificado», or «sin código» for one taken off, so it is not sent for a code typed right.
+        /// False when no stranger's keypad is open.
         /// </summary>
         public static async Task<bool> UseCodeAsync(NetworkStream? stream, byte[] payload)
         {
@@ -1049,9 +1054,9 @@ namespace Jondo.Unity.Server.Handlers
                 : HouseStore.Matches(HouseStore.ChestCodeOf(dialog.DoorMapId, dialog.DoorElementId, dialog.Instance, dialog.ChestElementId), typed);
 
             await SendAsync(stream, Op.Kld, ConnectionProtocol.BuildDialogClosed(HouseProtocol.CodeClosed));
-            await SendAsync(stream, Op.Khu, HouseProtocol.BuildCodeResult(wrong: !right));
             if (!right)
             {
+                await SendAsync(stream, Op.Khu, HouseProtocol.BuildCodeResult(wrong: true));
                 Console.WriteLine($"[Houses] {SessionContext.State.CharacterId} typed a wrong code at {dialog.DoorMapId}/{dialog.DoorElementId}.");
                 return true;
             }

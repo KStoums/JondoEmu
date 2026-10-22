@@ -689,6 +689,8 @@ namespace Jondo.Unity.Tests.World
 
                     Assert.True(await HouseHandler.BuyAsync(a.ToClient, Frame(Op.Jad, Pb.New().Var(1, 2_500_000).Build()), Op.Jad));
                     Assert.Equal(ConnectionProtocol.BuildKamas(500_000), await a.Next(Op.Ivf));
+                    // «Has perdido 2.500.000 kamas.» in the buyer's chat.
+                    Assert.Equal(ConnectionProtocol.BuildSystemMessage(InfoMessages.KamasLost, "2500000"), await a.Next(Op.Lqn));
                     Assert.Equal(HouseHandler.DoorChanged(door, ownerAccount), await a.Next(Op.Iwm));
                     await a.Next(Op.Izz);
                     Assert.NotEmpty(await a.Next(Op.Jaa));
@@ -761,8 +763,9 @@ namespace Jondo.Unity.Tests.World
                     await b.Next(Op.Iwn);
                     await b.Next(Op.Kia);
                     Assert.True(await HouseHandler.UseCodeAsync(b.ToClient, Frame(Op.Khw, Hex("0a0431333538"))));
+                    // The right code: the keypad closes and in he goes, no khu -- an empty one is
+                    // the owner's «Código modificado».
                     Assert.Equal(Hex("0802"), await b.Next(Op.Kld));
-                    Assert.Empty(await b.Next(Op.Khu));
                     await b.Next(Op.Jsd);
                     Assert.Equal(Pb.New().Var(1, door.InteriorMapId).Build(), await b.Next(Op.Jqw));
                     await b.Next(Op.Lqu);
@@ -780,6 +783,7 @@ namespace Jondo.Unity.Tests.World
                     Assert.Equal(HouseProtocol.BuildSaleWindow(true, houseId, Houses.FirstInstance, 20_500_000), await b.Next(Op.Khr));
                     Assert.True(await HouseHandler.BuyAsync(b.ToClient, Frame(Op.Jal, Pb.New().Var(1, 20_500_000).Build()), Op.Jal));
                     Assert.Equal(ConnectionProtocol.BuildKamas(9_500_000), await b.Next(Op.Ivf));
+                    Assert.Equal(ConnectionProtocol.BuildSystemMessage(InfoMessages.KamasLost, "20500000"), await b.Next(Op.Lqn));
                     await b.Take(4);   // iwm, izz, jaa, kld
                 }
 

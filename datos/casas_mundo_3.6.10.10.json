@@ -16,6 +16,7 @@
   21763,
   21764,
   21765,
+  21766,
   21767,
   21778,
   21962,
@@ -25,6 +26,7 @@
   21968,
   29518,
   29520,
+  30194,
   31642,
   31643,
   31645,
@@ -40,6 +42,7 @@
   44180,
   62995,
   67953,
+  67987,
   304593,
   304594,
   304595,
@@ -4621,6 +4624,23 @@
    "modeloInferido": true
   },
   {
+   "mapa": 54170917,
+   "elemento": 456996,
+   "casilla": 392,
+   "gfx": 21766,
+   "interior": 54525981,
+   "subzona": 601,
+   "origen": "casa",
+   "casa": 326,
+   "nombre": "Casa grande del burgo de Frigost",
+   "precio": 3000000,
+   "habitaciones": 4,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
    "mapa": 54170918,
    "elemento": 456716,
    "casilla": 293,
@@ -5301,6 +5321,23 @@
    "modeloInferido": true
   },
   {
+   "mapa": 54171425,
+   "elemento": 457361,
+   "casilla": 424,
+   "gfx": 21766,
+   "interior": 54789632,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 343,
+   "nombre": "Cabaña del puerto de Frigost",
+   "precio": 1000000,
+   "habitaciones": 1,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
    "mapa": 54171426,
    "elemento": 456685,
    "casilla": 559,
@@ -5573,6 +5610,23 @@
    "modeloInferido": true
   },
   {
+   "mapa": 54171428,
+   "elemento": 457018,
+   "casilla": 392,
+   "gfx": 21766,
+   "interior": 54526981,
+   "subzona": 601,
+   "origen": "casa",
+   "casa": 322,
+   "nombre": "Casa mediana del burgo de Frigost",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
    "mapa": 54171429,
    "elemento": 456986,
    "casilla": 238,
@@ -5615,6 +5669,23 @@
    "subzona": 601,
    "origen": "casa",
    "casa": 325,
+   "nombre": "Casa grande del burgo de Frigost",
+   "precio": 3000000,
+   "habitaciones": 4,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54171429,
+   "elemento": 456996,
+   "casilla": 405,
+   "gfx": 21766,
+   "interior": 54525981,
+   "subzona": 601,
+   "origen": "casa",
+   "casa": 326,
    "nombre": "Casa grande del burgo de Frigost",
    "precio": 3000000,
    "habitaciones": 4,
@@ -6270,6 +6341,23 @@
    "modeloInferido": true
   },
   {
+   "mapa": 54171937,
+   "elemento": 457361,
+   "casilla": 433,
+   "gfx": 21766,
+   "interior": 54789632,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 343,
+   "nombre": "Cabaña del puerto de Frigost",
+   "precio": 1000000,
+   "habitaciones": 1,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
    "mapa": 54171938,
    "elemento": 456961,
    "casilla": 265,
@@ -6434,6 +6522,23 @@
    "nombre": "Cabaña del puerto de Frigost",
    "precio": 1000000,
    "habitaciones": 1,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54171940,
+   "elemento": 457018,
+   "casilla": 401,
+   "gfx": 21766,
+   "interior": 54526981,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 322,
+   "nombre": "Casa mediana del burgo de Frigost",
+   "precio": 2500000,
+   "habitaciones": 3,
    "instancias": [
     1
    ],
@@ -7363,6 +7468,23 @@
    "casilla": 181,
    "gfx": 21764,
    "interior": 54788096,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 343,
+   "nombre": "Cabaña del puerto de Frigost",
+   "precio": 1000000,
+   "habitaciones": 1,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54172453,
+   "elemento": 456921,
+   "casilla": 160,
+   "gfx": 21766,
+   "interior": 54788098,
    "subzona": 600,
    "origen": "casa",
    "casa": 343,
@@ -8328,6 +8450,23 @@
   },
   {
    "mapa": 54172966,
+   "elemento": 456969,
+   "casilla": 56,
+   "gfx": 21766,
+   "interior": 54789634,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 343,
+   "nombre": "Cabaña del puerto de Frigost",
+   "precio": 1000000,
+   "habitaciones": 1,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54172966,
    "elemento": 456970,
    "casilla": 112,
    "gfx": 21765,
@@ -8457,6 +8596,40 @@
    "nombre": "Casa mediana del puerto de Frigost",
    "precio": 3000000,
    "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54172967,
+   "elemento": 456959,
+   "casilla": 366,
+   "gfx": 21766,
+   "interior": 54792716,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 352,
+   "nombre": "Casa mediana del puerto de Frigost",
+   "precio": 3000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54172967,
+   "elemento": 456969,
+   "casilla": 559,
+   "gfx": 21766,
+   "interior": 54789634,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 343,
+   "nombre": "Cabaña del puerto de Frigost",
+   "precio": 1000000,
+   "habitaciones": 1,
    "instancias": [
     1
    ],
@@ -9211,6 +9384,23 @@
    "modeloInferido": true
   },
   {
+   "mapa": 54173477,
+   "elemento": 456965,
+   "casilla": 117,
+   "gfx": 21766,
+   "interior": 54789130,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 352,
+   "nombre": "Casa mediana del puerto de Frigost",
+   "precio": 3000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
    "mapa": 54173478,
    "elemento": 456948,
    "casilla": 559,
@@ -9222,6 +9412,40 @@
    "nombre": "Casa mediana del puerto de Frigost",
    "precio": 3000000,
    "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54173478,
+   "elemento": 456965,
+   "casilla": 559,
+   "gfx": 21766,
+   "interior": 54789130,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 352,
+   "nombre": "Casa mediana del puerto de Frigost",
+   "precio": 3000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54173478,
+   "elemento": 456969,
+   "casilla": 66,
+   "gfx": 21766,
+   "interior": 54789634,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 343,
+   "nombre": "Cabaña del puerto de Frigost",
+   "precio": 1000000,
+   "habitaciones": 1,
    "instancias": [
     1
    ],
@@ -9296,6 +9520,23 @@
    "modeloInferido": true
   },
   {
+   "mapa": 54173478,
+   "elemento": 457360,
+   "casilla": 112,
+   "gfx": 21766,
+   "interior": 54788098,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 342,
+   "nombre": "Cabaña del puerto de Frigost",
+   "precio": 1000000,
+   "habitaciones": 1,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
    "mapa": 54173479,
    "elemento": 456941,
    "casilla": 94,
@@ -9355,6 +9596,40 @@
    "subzona": 600,
    "origen": "casa",
    "casa": 342,
+   "nombre": "Cabaña del puerto de Frigost",
+   "precio": 1000000,
+   "habitaciones": 1,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54173479,
+   "elemento": 456959,
+   "casilla": 377,
+   "gfx": 21766,
+   "interior": 54792716,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 352,
+   "nombre": "Casa mediana del puerto de Frigost",
+   "precio": 3000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54173479,
+   "elemento": 456969,
+   "casilla": 559,
+   "gfx": 21766,
+   "interior": 54789634,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 343,
    "nombre": "Cabaña del puerto de Frigost",
    "precio": 1000000,
    "habitaciones": 1,
@@ -10077,6 +10352,23 @@
    "modeloInferido": true
   },
   {
+   "mapa": 54173990,
+   "elemento": 457360,
+   "casilla": 121,
+   "gfx": 21766,
+   "interior": 54788098,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 342,
+   "nombre": "Cabaña del puerto de Frigost",
+   "precio": 1000000,
+   "habitaciones": 1,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
    "mapa": 54173991,
    "elemento": 456943,
    "casilla": 419,
@@ -10179,6 +10471,23 @@
    "modeloInferido": true
   },
   {
+   "mapa": 54173991,
+   "elemento": 457360,
+   "casilla": 559,
+   "gfx": 21766,
+   "interior": 54788098,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 342,
+   "nombre": "Cabaña del puerto de Frigost",
+   "precio": 1000000,
+   "habitaciones": 1,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
    "mapa": 54173992,
    "elemento": 456760,
    "casilla": 195,
@@ -10204,6 +10513,23 @@
    "subzona": 600,
    "origen": "casa",
    "casa": 350,
+   "nombre": "Casa mediana del puerto de Frigost",
+   "precio": 3000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54173992,
+   "elemento": 456957,
+   "casilla": 462,
+   "gfx": 21766,
+   "interior": 54792714,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 352,
    "nombre": "Casa mediana del puerto de Frigost",
    "precio": 3000000,
    "habitaciones": 3,
@@ -10843,6 +11169,23 @@
   },
   {
    "mapa": 54174504,
+   "elemento": 456914,
+   "casilla": 98,
+   "gfx": 21766,
+   "interior": 54792714,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 349,
+   "nombre": "Casa mediana del puerto de Frigost",
+   "precio": 3000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54174504,
    "elemento": 456915,
    "casilla": 154,
    "gfx": 21778,
@@ -10898,6 +11241,23 @@
    "casilla": 227,
    "gfx": 21763,
    "interior": 54789132,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 352,
+   "nombre": "Casa mediana del puerto de Frigost",
+   "precio": 3000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54174504,
+   "elemento": 456957,
+   "casilla": 474,
+   "gfx": 21766,
+   "interior": 54792714,
    "subzona": 600,
    "origen": "casa",
    "casa": 352,
@@ -10978,6 +11338,40 @@
     2,
     3
    ]
+  },
+  {
+   "mapa": 54174505,
+   "elemento": 456914,
+   "casilla": 559,
+   "gfx": 21766,
+   "interior": 54792714,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 349,
+   "nombre": "Casa mediana del puerto de Frigost",
+   "precio": 3000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54174505,
+   "elemento": 456928,
+   "casilla": 155,
+   "gfx": 21766,
+   "interior": 54789632,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 342,
+   "nombre": "Cabaña del puerto de Frigost",
+   "precio": 1000000,
+   "habitaciones": 1,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
   },
   {
    "mapa": 54174505,
@@ -11491,6 +11885,23 @@
   },
   {
    "mapa": 54175016,
+   "elemento": 456914,
+   "casilla": 107,
+   "gfx": 21766,
+   "interior": 54792714,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 349,
+   "nombre": "Casa mediana del puerto de Frigost",
+   "precio": 3000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54175016,
    "elemento": 456915,
    "casilla": 165,
    "gfx": 21778,
@@ -11518,6 +11929,40 @@
    "nombre": "Casa mediana del puerto de Frigost",
    "precio": 3000000,
    "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54175017,
+   "elemento": 456914,
+   "casilla": 559,
+   "gfx": 21766,
+   "interior": 54792714,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 349,
+   "nombre": "Casa mediana del puerto de Frigost",
+   "precio": 3000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54175017,
+   "elemento": 456928,
+   "casilla": 167,
+   "gfx": 21766,
+   "interior": 54789632,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 342,
+   "nombre": "Cabaña del puerto de Frigost",
+   "precio": 1000000,
+   "habitaciones": 1,
    "instancias": [
     1
    ],
@@ -11569,6 +12014,23 @@
    "nombre": "Casa mediana del puerto de Frigost",
    "precio": 3000000,
    "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54175017,
+   "elemento": 456992,
+   "casilla": 300,
+   "gfx": 21766,
+   "interior": 54788096,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 342,
+   "nombre": "Cabaña del puerto de Frigost",
+   "precio": 1000000,
+   "habitaciones": 1,
    "instancias": [
     1
    ],
@@ -12171,6 +12633,23 @@
   },
   {
    "mapa": 54175530,
+   "elemento": 456982,
+   "casilla": 259,
+   "gfx": 21766,
+   "interior": 54789132,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 352,
+   "nombre": "Casa mediana del puerto de Frigost",
+   "precio": 3000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54175530,
    "elemento": 456983,
    "casilla": 296,
    "gfx": 21765,
@@ -12528,6 +13007,23 @@
   },
   {
    "mapa": 54176041,
+   "elemento": 456917,
+   "casilla": 100,
+   "gfx": 21766,
+   "interior": 54792716,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 352,
+   "nombre": "Casa mediana del puerto de Frigost",
+   "precio": 3000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54176041,
    "elemento": 456918,
    "casilla": 109,
    "gfx": 21764,
@@ -12579,6 +13075,23 @@
   },
   {
    "mapa": 54176041,
+   "elemento": 456938,
+   "casilla": 210,
+   "gfx": 21766,
+   "interior": 54789132,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 349,
+   "nombre": "Casa mediana del puerto de Frigost",
+   "precio": 3000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54176041,
    "elemento": 456939,
    "casilla": 518,
    "gfx": 21767,
@@ -12617,6 +13130,23 @@
    "casilla": 559,
    "gfx": 21764,
    "interior": 54789132,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 352,
+   "nombre": "Casa mediana del puerto de Frigost",
+   "precio": 3000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54176042,
+   "elemento": 456917,
+   "casilla": 559,
+   "gfx": 21766,
+   "interior": 54792716,
    "subzona": 600,
    "origen": "casa",
    "casa": 352,
@@ -12970,9 +13500,43 @@
   },
   {
    "mapa": 54176553,
+   "elemento": 456917,
+   "casilla": 111,
+   "gfx": 21766,
+   "interior": 54792716,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 352,
+   "nombre": "Casa mediana del puerto de Frigost",
+   "precio": 3000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54176553,
    "elemento": 456919,
    "casilla": 209,
    "gfx": 21767,
+   "interior": 54789130,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 352,
+   "nombre": "Casa mediana del puerto de Frigost",
+   "precio": 3000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54176553,
+   "elemento": 456934,
+   "casilla": 87,
+   "gfx": 21766,
    "interior": 54789130,
    "subzona": 600,
    "origen": "casa",
@@ -13021,6 +13585,23 @@
   },
   {
    "mapa": 54176553,
+   "elemento": 456938,
+   "casilla": 221,
+   "gfx": 21766,
+   "interior": 54789132,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 349,
+   "nombre": "Casa mediana del puerto de Frigost",
+   "precio": 3000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54176553,
    "elemento": 456939,
    "casilla": 528,
    "gfx": 21767,
@@ -13055,10 +13636,44 @@
   },
   {
    "mapa": 54176554,
+   "elemento": 456917,
+   "casilla": 559,
+   "gfx": 21766,
+   "interior": 54792716,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 352,
+   "nombre": "Casa mediana del puerto de Frigost",
+   "precio": 3000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54176554,
    "elemento": 456925,
    "casilla": 195,
    "gfx": 21763,
    "interior": 54792716,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 352,
+   "nombre": "Casa mediana del puerto de Frigost",
+   "precio": 3000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54176554,
+   "elemento": 456934,
+   "casilla": 559,
+   "gfx": 21766,
+   "interior": 54789130,
    "subzona": 600,
    "origen": "casa",
    "casa": 352,
@@ -13110,6 +13725,23 @@
    "casilla": 208,
    "gfx": 21767,
    "interior": 54792716,
+   "subzona": 600,
+   "origen": "casa",
+   "casa": 352,
+   "nombre": "Casa mediana del puerto de Frigost",
+   "precio": 3000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54176554,
+   "elemento": 457006,
+   "casilla": 271,
+   "gfx": 21766,
+   "interior": 54792714,
    "subzona": 600,
    "origen": "casa",
    "casa": 352,
@@ -13259,6 +13891,23 @@
   },
   {
    "mapa": 54177065,
+   "elemento": 456934,
+   "casilla": 97,
+   "gfx": 21766,
+   "interior": 54789130,
+   "subzona": 602,
+   "origen": "casa",
+   "casa": 352,
+   "nombre": "Casa mediana del puerto de Frigost",
+   "precio": 3000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54177065,
    "elemento": 456937,
    "casilla": 167,
    "gfx": 21763,
@@ -13269,6 +13918,23 @@
    "nombre": "Cabaña del puerto de Frigost",
    "precio": 1000000,
    "habitaciones": 1,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 54177066,
+   "elemento": 456934,
+   "casilla": 559,
+   "gfx": 21766,
+   "interior": 54789130,
+   "subzona": 602,
+   "origen": "casa",
+   "casa": 352,
+   "nombre": "Casa mediana del puerto de Frigost",
+   "precio": 3000000,
+   "habitaciones": 3,
    "instancias": [
     1
    ],
@@ -13320,6 +13986,23 @@
    "nombre": "Casa grande del burgo de Frigost",
    "precio": 3000000,
    "habitaciones": 4,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68419585,
+   "elemento": 460009,
+   "casilla": 196,
+   "gfx": 30194,
+   "interior": 95162883,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 308,
+   "nombre": "Casa mediana del castillo de Amakna",
+   "precio": 2000000,
+   "habitaciones": 2,
    "instancias": [
     1
    ],
@@ -13950,6 +14633,40 @@
   },
   {
    "mapa": 68551168,
+   "elemento": 460003,
+   "casilla": 350,
+   "gfx": 30194,
+   "interior": 95160837,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 308,
+   "nombre": "Casa mediana del castillo de Amakna",
+   "precio": 2000000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68551168,
+   "elemento": 460005,
+   "casilla": 176,
+   "gfx": 30194,
+   "interior": 95160839,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 308,
+   "nombre": "Casa mediana del castillo de Amakna",
+   "precio": 2000000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68551168,
    "elemento": 460006,
    "casilla": 241,
    "gfx": 701340,
@@ -13959,6 +14676,23 @@
    "casa": 303,
    "nombre": "Casa pequeña del castillo de Amakna",
    "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68551169,
+   "elemento": 460009,
+   "casilla": 207,
+   "gfx": 30194,
+   "interior": 95162883,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 308,
+   "nombre": "Casa mediana del castillo de Amakna",
+   "precio": 2000000,
    "habitaciones": 2,
    "instancias": [
     1
@@ -13983,11 +14717,79 @@
    "modeloInferido": true
   },
   {
+   "mapa": 68551171,
+   "elemento": 460024,
+   "casilla": 196,
+   "gfx": 30194,
+   "interior": 90442240,
+   "subzona": 1,
+   "origen": "casa",
+   "casa": 249,
+   "nombre": "Casa grande de Madrestam",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
    "mapa": 68551425,
    "elemento": 460007,
    "casilla": 290,
    "gfx": 701340,
    "interior": 95160833,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 308,
+   "nombre": "Casa mediana del castillo de Amakna",
+   "precio": 2000000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68551425,
+   "elemento": 460008,
+   "casilla": 238,
+   "gfx": 30194,
+   "interior": 95162881,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 303,
+   "nombre": "Casa pequeña del castillo de Amakna",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68551680,
+   "elemento": 460002,
+   "casilla": 210,
+   "gfx": 30194,
+   "interior": 95160835,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 303,
+   "nombre": "Casa pequeña del castillo de Amakna",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68551680,
+   "elemento": 460003,
+   "casilla": 360,
+   "gfx": 30194,
+   "interior": 95160837,
    "subzona": 180,
    "origen": "casa",
    "casa": 308,
@@ -14068,6 +14870,108 @@
    "modeloInferido": true
   },
   {
+   "mapa": 68551682,
+   "elemento": 460021,
+   "casilla": 192,
+   "gfx": 30194,
+   "interior": 95160835,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 308,
+   "nombre": "Casa mediana del castillo de Amakna",
+   "precio": 2000000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68551683,
+   "elemento": 460022,
+   "casilla": 156,
+   "gfx": 30194,
+   "interior": 95160837,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 303,
+   "nombre": "Casa pequeña del castillo de Amakna",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68551683,
+   "elemento": 460024,
+   "casilla": 207,
+   "gfx": 30194,
+   "interior": 90442240,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 249,
+   "nombre": "Casa grande de Madrestam",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68551683,
+   "elemento": 460026,
+   "casilla": 182,
+   "gfx": 30194,
+   "interior": 95160839,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 303,
+   "nombre": "Casa pequeña del castillo de Amakna",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68551937,
+   "elemento": 460008,
+   "casilla": 247,
+   "gfx": 30194,
+   "interior": 95162881,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 303,
+   "nombre": "Casa pequeña del castillo de Amakna",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68551937,
+   "elemento": 460063,
+   "casilla": 339,
+   "gfx": 30194,
+   "interior": 95158787,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 308,
+   "nombre": "Casa mediana del castillo de Amakna",
+   "precio": 2000000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
    "mapa": 68552192,
    "elemento": 460001,
    "casilla": 134,
@@ -14086,10 +14990,78 @@
   },
   {
    "mapa": 68552192,
+   "elemento": 460002,
+   "casilla": 221,
+   "gfx": 30194,
+   "interior": 95160835,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 303,
+   "nombre": "Casa pequeña del castillo de Amakna",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68552192,
    "elemento": 460061,
    "casilla": 280,
    "gfx": 701340,
    "interior": 95158791,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 308,
+   "nombre": "Casa mediana del castillo de Amakna",
+   "precio": 2000000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68552192,
+   "elemento": 460062,
+   "casilla": 253,
+   "gfx": 30194,
+   "interior": 95158785,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 303,
+   "nombre": "Casa pequeña del castillo de Amakna",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68552193,
+   "elemento": 460011,
+   "casilla": 224,
+   "gfx": 30194,
+   "interior": 95158785,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 308,
+   "nombre": "Casa mediana del castillo de Amakna",
+   "precio": 2000000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68552194,
+   "elemento": 460017,
+   "casilla": 210,
+   "gfx": 30194,
+   "interior": 95160833,
    "subzona": 180,
    "origen": "casa",
    "casa": 308,
@@ -14137,6 +15109,23 @@
   },
   {
    "mapa": 68552195,
+   "elemento": 460022,
+   "casilla": 167,
+   "gfx": 30194,
+   "interior": 95160837,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 303,
+   "nombre": "Casa pequeña del castillo de Amakna",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68552195,
    "elemento": 460025,
    "casilla": 256,
    "gfx": 701340,
@@ -14146,6 +15135,23 @@
    "casa": 308,
    "nombre": "Casa mediana del castillo de Amakna",
    "precio": 2000000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68552195,
+   "elemento": 460026,
+   "casilla": 193,
+   "gfx": 30194,
+   "interior": 95160839,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 303,
+   "nombre": "Casa pequeña del castillo de Amakna",
+   "precio": 1500000,
    "habitaciones": 2,
    "instancias": [
     1
@@ -14187,11 +15193,79 @@
    "modeloInferido": true
   },
   {
+   "mapa": 68552449,
+   "elemento": 460063,
+   "casilla": 349,
+   "gfx": 30194,
+   "interior": 95158787,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 308,
+   "nombre": "Casa mediana del castillo de Amakna",
+   "precio": 2000000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68552704,
+   "elemento": 460000,
+   "casilla": 226,
+   "gfx": 30194,
+   "interior": 95160833,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 303,
+   "nombre": "Casa pequeña del castillo de Amakna",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
    "mapa": 68552704,
    "elemento": 460061,
    "casilla": 290,
    "gfx": 701340,
    "interior": 95158791,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 308,
+   "nombre": "Casa mediana del castillo de Amakna",
+   "precio": 2000000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68552704,
+   "elemento": 460062,
+   "casilla": 265,
+   "gfx": 30194,
+   "interior": 95158785,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 303,
+   "nombre": "Casa pequeña del castillo de Amakna",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68552705,
+   "elemento": 460011,
+   "casilla": 235,
+   "gfx": 30194,
+   "interior": 95158785,
    "subzona": 180,
    "origen": "casa",
    "casa": 308,
@@ -14221,11 +15295,62 @@
    "modeloInferido": true
   },
   {
+   "mapa": 68552705,
+   "elemento": 460014,
+   "casilla": 476,
+   "gfx": 30194,
+   "interior": 95158789,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 303,
+   "nombre": "Casa pequeña del castillo de Amakna",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68552706,
+   "elemento": 460017,
+   "casilla": 221,
+   "gfx": 30194,
+   "interior": 95160833,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 308,
+   "nombre": "Casa mediana del castillo de Amakna",
+   "precio": 2000000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
    "mapa": 68552706,
    "elemento": 460018,
    "casilla": 255,
    "gfx": 701340,
    "interior": 95160839,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 303,
+   "nombre": "Casa pequeña del castillo de Amakna",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68552706,
+   "elemento": 460066,
+   "casilla": 238,
+   "gfx": 30194,
+   "interior": 95158789,
    "subzona": 180,
    "origen": "casa",
    "casa": 303,
@@ -14272,6 +15397,74 @@
    "modeloInferido": true
   },
   {
+   "mapa": 68552707,
+   "elemento": 460029,
+   "casilla": 141,
+   "gfx": 30194,
+   "interior": 95162881,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 308,
+   "nombre": "Casa mediana del castillo de Amakna",
+   "precio": 2000000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68552707,
+   "elemento": 460030,
+   "casilla": 210,
+   "gfx": 30194,
+   "interior": 95162883,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 303,
+   "nombre": "Casa pequeña del castillo de Amakna",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68553216,
+   "elemento": 459999,
+   "casilla": 228,
+   "gfx": 30194,
+   "interior": 95158791,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 308,
+   "nombre": "Casa mediana del castillo de Amakna",
+   "precio": 2000000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68553216,
+   "elemento": 460000,
+   "casilla": 237,
+   "gfx": 30194,
+   "interior": 95160833,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 303,
+   "nombre": "Casa pequeña del castillo de Amakna",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
    "mapa": 68553216,
    "elemento": 460060,
    "casilla": 422,
@@ -14306,11 +15499,113 @@
    "modeloInferido": true
   },
   {
+   "mapa": 68553217,
+   "elemento": 460013,
+   "casilla": 268,
+   "gfx": 30194,
+   "interior": 95158787,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 308,
+   "nombre": "Casa mediana del castillo de Amakna",
+   "precio": 2000000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68553217,
+   "elemento": 460014,
+   "casilla": 488,
+   "gfx": 30194,
+   "interior": 95158789,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 303,
+   "nombre": "Casa pequeña del castillo de Amakna",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68553218,
+   "elemento": 460016,
+   "casilla": 173,
+   "gfx": 30194,
+   "interior": 95158791,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 303,
+   "nombre": "Casa pequeña del castillo de Amakna",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
    "mapa": 68553218,
    "elemento": 460018,
    "casilla": 265,
    "gfx": 701340,
    "interior": 95160839,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 303,
+   "nombre": "Casa pequeña del castillo de Amakna",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68553218,
+   "elemento": 460066,
+   "casilla": 248,
+   "gfx": 30194,
+   "interior": 95158789,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 303,
+   "nombre": "Casa pequeña del castillo de Amakna",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68553219,
+   "elemento": 460029,
+   "casilla": 153,
+   "gfx": 30194,
+   "interior": 95162881,
+   "subzona": 180,
+   "origen": "casa",
+   "casa": 308,
+   "nombre": "Casa mediana del castillo de Amakna",
+   "precio": 2000000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 68553219,
+   "elemento": 460030,
+   "casilla": 221,
+   "gfx": 30194,
+   "interior": 95162883,
    "subzona": 180,
    "origen": "casa",
    "casa": 303,
@@ -24137,6 +25432,57 @@
    "modeloInferido": true
   },
   {
+   "mapa": 212860928,
+   "elemento": 522231,
+   "casilla": 559,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212860929,
+   "elemento": 522223,
+   "casilla": 559,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 428,
+   "nombre": "Casa mediana de Brakmar",
+   "precio": 2000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212860929,
+   "elemento": 522231,
+   "casilla": 87,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
    "mapa": 212860929,
    "elemento": 522236,
    "casilla": 168,
@@ -24154,11 +25500,1351 @@
    "modeloInferido": true
   },
   {
+   "mapa": 212860930,
+   "elemento": 522221,
+   "casilla": 283,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212860930,
+   "elemento": 522223,
+   "casilla": 56,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 428,
+   "nombre": "Casa mediana de Brakmar",
+   "precio": 2000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212860930,
+   "elemento": 522224,
+   "casilla": 378,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 428,
+   "nombre": "Casa mediana de Brakmar",
+   "precio": 2000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212860930,
+   "elemento": 523140,
+   "casilla": 179,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212860931,
+   "elemento": 522212,
+   "casilla": 182,
+   "gfx": 67987,
+   "interior": 212338688,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212860932,
+   "elemento": 522178,
+   "casilla": 559,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212860932,
+   "elemento": 522211,
+   "casilla": 182,
+   "gfx": 67987,
+   "interior": 212336640,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212860933,
+   "elemento": 522178,
+   "casilla": 125,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212861185,
+   "elemento": 522234,
+   "casilla": 418,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212861445,
+   "elemento": 522175,
+   "casilla": 307,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212861445,
+   "elemento": 522176,
+   "casilla": 315,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212861445,
+   "elemento": 522177,
+   "casilla": 361,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212861445,
+   "elemento": 522178,
+   "casilla": 112,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212861697,
+   "elemento": 522127,
+   "casilla": 97,
+   "gfx": 67987,
+   "interior": 212338688,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212861697,
+   "elemento": 522229,
+   "casilla": 164,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 423,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212861697,
+   "elemento": 522230,
+   "casilla": 245,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212861697,
+   "elemento": 522234,
+   "casilla": 406,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212861952,
+   "elemento": 522130,
+   "casilla": 181,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212861954,
+   "elemento": 522121,
+   "casilla": 559,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 428,
+   "nombre": "Casa mediana de Brakmar",
+   "precio": 2000000,
+   "habitaciones": 3,
+   "instancias": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    13
+   ]
+  },
+  {
+   "mapa": 212861954,
+   "elemento": 522122,
+   "casilla": 559,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1,
+    7,
+    8,
+    10
+   ]
+  },
+  {
+   "mapa": 212861954,
+   "elemento": 522123,
+   "casilla": 389,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 428,
+   "nombre": "Casa mediana de Brakmar",
+   "precio": 2000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212861954,
+   "elemento": 522124,
+   "casilla": 237,
+   "gfx": 67987,
+   "interior": 212336640,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212861955,
+   "elemento": 522120,
+   "casilla": 251,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1,
+    2,
+    3,
+    6,
+    8,
+    9,
+    11
+   ]
+  },
+  {
+   "mapa": 212861955,
+   "elemento": 522121,
+   "casilla": 168,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 428,
+   "nombre": "Casa mediana de Brakmar",
+   "precio": 2000000,
+   "habitaciones": 3,
+   "instancias": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    13
+   ]
+  },
+  {
+   "mapa": 212861955,
+   "elemento": 522122,
+   "casilla": 46,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1,
+    7,
+    8,
+    10
+   ]
+  },
+  {
+   "mapa": 212861957,
+   "elemento": 522174,
+   "casilla": 559,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 428,
+   "nombre": "Casa mediana de Brakmar",
+   "precio": 2000000,
+   "habitaciones": 3,
+   "instancias": [
+    4,
+    7,
+    8
+   ]
+  },
+  {
+   "mapa": 212861957,
+   "elemento": 522175,
+   "casilla": 295,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212861957,
+   "elemento": 522177,
+   "casilla": 350,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212862209,
+   "elemento": 522127,
+   "casilla": 84,
+   "gfx": 67987,
+   "interior": 212338688,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212862209,
+   "elemento": 522128,
+   "casilla": 237,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 428,
+   "nombre": "Casa mediana de Brakmar",
+   "precio": 2000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212862209,
+   "elemento": 522129,
+   "casilla": 195,
+   "gfx": 67987,
+   "interior": 212336640,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212862209,
+   "elemento": 522130,
+   "casilla": 559,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212862209,
+   "elemento": 522229,
+   "casilla": 154,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 423,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212862210,
+   "elemento": 522127,
+   "casilla": 559,
+   "gfx": 67987,
+   "interior": 212338688,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212862210,
+   "elemento": 522229,
+   "casilla": 559,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 423,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212862464,
+   "elemento": 522130,
+   "casilla": 169,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212862466,
+   "elemento": 522123,
+   "casilla": 378,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 428,
+   "nombre": "Casa mediana de Brakmar",
+   "precio": 2000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212862466,
+   "elemento": 522124,
+   "casilla": 228,
+   "gfx": 67987,
+   "interior": 212336640,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212862467,
+   "elemento": 522120,
+   "casilla": 238,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1,
+    2,
+    3,
+    6,
+    8,
+    9,
+    11
+   ]
+  },
+  {
+   "mapa": 212862469,
+   "elemento": 522173,
+   "casilla": 181,
+   "gfx": 67987,
+   "interior": 212336640,
+   "subzona": 978,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212862469,
+   "elemento": 522174,
+   "casilla": 559,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 978,
+   "origen": "residencia",
+   "casa": 428,
+   "nombre": "Casa mediana de Brakmar",
+   "precio": 2000000,
+   "habitaciones": 3,
+   "instancias": [
+    4,
+    7,
+    8
+   ]
+  },
+  {
+   "mapa": 212862470,
+   "elemento": 522174,
+   "casilla": 155,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 978,
+   "origen": "residencia",
+   "casa": 428,
+   "nombre": "Casa mediana de Brakmar",
+   "precio": 2000000,
+   "habitaciones": 3,
+   "instancias": [
+    4,
+    7,
+    8
+   ]
+  },
+  {
+   "mapa": 212862721,
+   "elemento": 522128,
+   "casilla": 224,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 428,
+   "nombre": "Casa mediana de Brakmar",
+   "precio": 2000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212862721,
+   "elemento": 522129,
+   "casilla": 185,
+   "gfx": 67987,
+   "interior": 212336640,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212862721,
+   "elemento": 522130,
+   "casilla": 559,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212862721,
+   "elemento": 522132,
+   "casilla": 293,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212862976,
+   "elemento": 522133,
+   "casilla": 81,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 428,
+   "nombre": "Casa mediana de Brakmar",
+   "precio": 2000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212862976,
+   "elemento": 522134,
+   "casilla": 458,
+   "gfx": 67987,
+   "interior": 212338688,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212862976,
+   "elemento": 522135,
+   "casilla": 195,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212862981,
+   "elemento": 522173,
+   "casilla": 171,
+   "gfx": 67987,
+   "interior": 212336640,
+   "subzona": 978,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212862982,
+   "elemento": 523128,
+   "casilla": 335,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 978,
+   "origen": "residencia",
+   "casa": 423,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212863233,
+   "elemento": 522131,
+   "casilla": 219,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212863233,
+   "elemento": 522132,
+   "casilla": 284,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212863233,
+   "elemento": 522133,
+   "casilla": 559,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 428,
+   "nombre": "Casa mediana de Brakmar",
+   "precio": 2000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212863488,
+   "elemento": 522133,
+   "casilla": 70,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 428,
+   "nombre": "Casa mediana de Brakmar",
+   "precio": 2000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212863488,
+   "elemento": 522134,
+   "casilla": 448,
+   "gfx": 67987,
+   "interior": 212338688,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212863488,
+   "elemento": 522135,
+   "casilla": 184,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212863488,
+   "elemento": 522136,
+   "casilla": 271,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212863488,
+   "elemento": 522137,
+   "casilla": 334,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212863488,
+   "elemento": 522138,
+   "casilla": 346,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212863488,
+   "elemento": 522139,
+   "casilla": 111,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212863488,
+   "elemento": 522140,
+   "casilla": 559,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
    "mapa": 212863490,
    "elemento": 522142,
    "casilla": 111,
    "gfx": 67953,
    "interior": 212336650,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212863490,
+   "elemento": 522143,
+   "casilla": 140,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212863490,
+   "elemento": 522144,
+   "casilla": 405,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212863490,
+   "elemento": 522145,
+   "casilla": 559,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212863491,
+   "elemento": 522145,
+   "casilla": 102,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212863491,
+   "elemento": 522146,
+   "casilla": 195,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212863491,
+   "elemento": 522149,
+   "casilla": 559,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212863492,
+   "elemento": 522148,
+   "casilla": 447,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212863492,
+   "elemento": 522149,
+   "casilla": 111,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212863494,
+   "elemento": 522167,
+   "casilla": 290,
+   "gfx": 67987,
+   "interior": 212338688,
+   "subzona": 978,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212863494,
+   "elemento": 523128,
+   "casilla": 326,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 978,
+   "origen": "residencia",
+   "casa": 423,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212864000,
+   "elemento": 522137,
+   "casilla": 322,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212864000,
+   "elemento": 522138,
+   "casilla": 336,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212864000,
+   "elemento": 522139,
+   "casilla": 100,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212864000,
+   "elemento": 522140,
+   "casilla": 559,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212864001,
+   "elemento": 522140,
+   "casilla": 88,
+   "gfx": 67987,
+   "interior": 212339722,
    "subzona": 980,
    "origen": "residencia",
    "casa": 426,
@@ -24205,6 +26891,159 @@
    "modeloInferido": true
   },
   {
+   "mapa": 212864002,
+   "elemento": 522144,
+   "casilla": 392,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212864003,
+   "elemento": 522146,
+   "casilla": 182,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212864003,
+   "elemento": 522147,
+   "casilla": 166,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212864003,
+   "elemento": 522149,
+   "casilla": 559,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212864004,
+   "elemento": 522148,
+   "casilla": 434,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212864004,
+   "elemento": 522149,
+   "casilla": 101,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212864004,
+   "elemento": 522150,
+   "casilla": 461,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212864005,
+   "elemento": 522151,
+   "casilla": 229,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 978,
+   "origen": "residencia",
+   "casa": 423,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212864005,
+   "elemento": 522152,
+   "casilla": 147,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 978,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
    "mapa": 212864005,
    "elemento": 522153,
    "casilla": 237,
@@ -24220,6 +27059,93 @@
     1
    ],
    "modeloInferido": true
+  },
+  {
+   "mapa": 212864006,
+   "elemento": 522167,
+   "casilla": 280,
+   "gfx": 67987,
+   "interior": 212338688,
+   "subzona": 978,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212864007,
+   "elemento": 522157,
+   "casilla": 239,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 978,
+   "origen": "residencia",
+   "casa": 423,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212864007,
+   "elemento": 522158,
+   "casilla": 320,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 978,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212864007,
+   "elemento": 522159,
+   "casilla": 559,
+   "gfx": 67987,
+   "interior": 212336640,
+   "subzona": 978,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "mapa": 212864008,
+   "elemento": 522159,
+   "casilla": 89,
+   "gfx": 67987,
+   "interior": 212336640,
+   "subzona": 978,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    6,
+    7,
+    8
+   ]
   },
   {
    "mapa": 212864008,
@@ -24239,6 +27165,244 @@
    "modeloInferido": true
   },
   {
+   "mapa": 212864257,
+   "elemento": 522139,
+   "casilla": 559,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212864515,
+   "elemento": 522147,
+   "casilla": 154,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212864518,
+   "elemento": 522155,
+   "casilla": 125,
+   "gfx": 67987,
+   "interior": 212338688,
+   "subzona": 978,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212864519,
+   "elemento": 522156,
+   "casilla": 188,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 978,
+   "origen": "residencia",
+   "casa": 423,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212864519,
+   "elemento": 522158,
+   "casilla": 308,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 978,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212865030,
+   "elemento": 522154,
+   "casilla": 92,
+   "gfx": 67987,
+   "interior": 212336640,
+   "subzona": 978,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212865030,
+   "elemento": 522155,
+   "casilla": 116,
+   "gfx": 67987,
+   "interior": 212338688,
+   "subzona": 978,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212992512,
+   "elemento": 522231,
+   "casilla": 559,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212992512,
+   "elemento": 522232,
+   "casilla": 225,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212992512,
+   "elemento": 522233,
+   "casilla": 559,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212992513,
+   "elemento": 522222,
+   "casilla": 559,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212992513,
+   "elemento": 522223,
+   "casilla": 559,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 428,
+   "nombre": "Casa mediana de Brakmar",
+   "precio": 2000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212992513,
+   "elemento": 522231,
+   "casilla": 97,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212992513,
+   "elemento": 522233,
+   "casilla": 106,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
    "mapa": 212992513,
    "elemento": 522236,
    "casilla": 179,
@@ -24248,6 +27412,210 @@
    "origen": "residencia",
    "casa": 426,
    "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212992514,
+   "elemento": 522213,
+   "casilla": 559,
+   "gfx": 67987,
+   "interior": 212336640,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212992514,
+   "elemento": 522221,
+   "casilla": 293,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212992514,
+   "elemento": 522222,
+   "casilla": 170,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212992514,
+   "elemento": 522223,
+   "casilla": 67,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 428,
+   "nombre": "Casa mediana de Brakmar",
+   "precio": 2000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212992514,
+   "elemento": 522224,
+   "casilla": 388,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 428,
+   "nombre": "Casa mediana de Brakmar",
+   "precio": 2000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212992515,
+   "elemento": 522212,
+   "casilla": 192,
+   "gfx": 67987,
+   "interior": 212338688,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212992515,
+   "elemento": 522213,
+   "casilla": 72,
+   "gfx": 67987,
+   "interior": 212336640,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212992516,
+   "elemento": 522211,
+   "casilla": 195,
+   "gfx": 67987,
+   "interior": 212336640,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212993026,
+   "elemento": 522213,
+   "casilla": 559,
+   "gfx": 67987,
+   "interior": 212336640,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 212993026,
+   "elemento": 522222,
+   "casilla": 181,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 219414528,
+   "elemento": 522199,
+   "casilla": 79,
+   "gfx": 67987,
+   "interior": 212338688,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 219414528,
+   "elemento": 522200,
+   "casilla": 87,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
    "precio": 2500000,
    "habitaciones": 3,
    "instancias": [
@@ -24342,6 +27710,40 @@
   },
   {
    "mapa": 219415040,
+   "elemento": 522196,
+   "casilla": 139,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 219415040,
+   "elemento": 522197,
+   "casilla": 345,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 219415040,
    "elemento": 522198,
    "casilla": 399,
    "gfx": 67953,
@@ -24351,6 +27753,125 @@
    "casa": 428,
    "nombre": "Casa mediana de Brakmar",
    "precio": 2000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 219415040,
+   "elemento": 522199,
+   "casilla": 70,
+   "gfx": 67987,
+   "interior": 212338688,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 219415552,
+   "elemento": 522193,
+   "casilla": 111,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 428,
+   "nombre": "Casa mediana de Brakmar",
+   "precio": 2000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 219415552,
+   "elemento": 522194,
+   "casilla": 131,
+   "gfx": 67987,
+   "interior": 212336640,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 219415552,
+   "elemento": 522195,
+   "casilla": 166,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 219415552,
+   "elemento": 522196,
+   "casilla": 127,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 219415552,
+   "elemento": 522197,
+   "casilla": 336,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 219415554,
+   "elemento": 522187,
+   "casilla": 110,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
    "habitaciones": 3,
    "instancias": [
     1
@@ -24393,9 +27914,43 @@
   },
   {
    "mapa": 219415556,
+   "elemento": 522184,
+   "casilla": 60,
+   "gfx": 67987,
+   "interior": 212338688,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 219415556,
    "elemento": 522185,
    "casilla": 215,
    "gfx": 67953,
+   "interior": 212339720,
+   "subzona": 977,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 219415558,
+   "elemento": 522182,
+   "casilla": 375,
+   "gfx": 67987,
    "interior": 212339720,
    "subzona": 977,
    "origen": "residencia",
@@ -24426,6 +27981,40 @@
    "modeloInferido": true
   },
   {
+   "mapa": 219416064,
+   "elemento": 522193,
+   "casilla": 99,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 428,
+   "nombre": "Casa mediana de Brakmar",
+   "precio": 2000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 219416064,
+   "elemento": 522195,
+   "casilla": 154,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
    "mapa": 219416584,
    "elemento": 522168,
    "casilla": 234,
@@ -24436,6 +28025,40 @@
    "casa": 423,
    "nombre": "Casa grande de Brakmar",
    "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 219416584,
+   "elemento": 522169,
+   "casilla": 151,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 978,
+   "origen": "residencia",
+   "casa": 423,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 219416584,
+   "elemento": 522171,
+   "casilla": 57,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 978,
+   "origen": "residencia",
+   "casa": 428,
+   "nombre": "Casa mediana de Brakmar",
+   "precio": 2000000,
    "habitaciones": 3,
    "instancias": [
     1
@@ -24495,10 +28118,44 @@
   },
   {
    "mapa": 219417090,
+   "elemento": 522165,
+   "casilla": 151,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 219417090,
    "elemento": 522166,
    "casilla": 328,
    "gfx": 67953,
    "interior": 212339722,
+   "subzona": 980,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 219417346,
+   "elemento": 522161,
+   "casilla": 130,
+   "gfx": 67987,
+   "interior": 212339720,
    "subzona": 980,
    "origen": "residencia",
    "casa": 426,
@@ -24522,6 +28179,40 @@
    "nombre": "Casa grande de Brakmar",
    "precio": 2500000,
    "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 219546624,
+   "elemento": 522226,
+   "casilla": 98,
+   "gfx": 67987,
+   "interior": 212338688,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 219546624,
+   "elemento": 522227,
+   "casilla": 350,
+   "gfx": 67987,
+   "interior": 212336640,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 434,
+   "nombre": "Casa pequeña de Brakmar",
+   "precio": 1500000,
+   "habitaciones": 2,
    "instancias": [
     1
    ],
@@ -24614,6 +28305,23 @@
   },
   {
    "mapa": 219546628,
+   "elemento": 522215,
+   "casilla": 333,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 423,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 219546628,
    "elemento": 522217,
    "casilla": 171,
    "gfx": 67953,
@@ -24630,10 +28338,129 @@
    "modeloInferido": true
   },
   {
+   "mapa": 219546630,
+   "elemento": 522207,
+   "casilla": 114,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 219546630,
+   "elemento": 522208,
+   "casilla": 175,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 426,
+   "nombre": "Casa mediana de carnicero",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 219546630,
+   "elemento": 522209,
+   "casilla": 255,
+   "gfx": 67987,
+   "interior": 212336650,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 428,
+   "nombre": "Casa mediana de Brakmar",
+   "precio": 2000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 219546630,
+   "elemento": 522210,
+   "casilla": 298,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 428,
+   "nombre": "Casa mediana de Brakmar",
+   "precio": 2000000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 219546882,
+   "elemento": 522228,
+   "casilla": 267,
+   "gfx": 67987,
+   "interior": 212339720,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 423,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 219547652,
+   "elemento": 522203,
+   "casilla": 211,
+   "gfx": 67987,
+   "interior": 212339722,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
    "mapa": 219547652,
    "elemento": 522204,
    "casilla": 269,
    "gfx": 67953,
+   "interior": 212336650,
+   "subzona": 982,
+   "origen": "residencia",
+   "casa": 424,
+   "nombre": "Casa grande de Brakmar",
+   "precio": 2500000,
+   "habitaciones": 3,
+   "instancias": [
+    1
+   ],
+   "modeloInferido": true
+  },
+  {
+   "mapa": 219547652,
+   "elemento": 522205,
+   "casilla": 164,
+   "gfx": 67987,
    "interior": 212336650,
    "subzona": 982,
    "origen": "residencia",
